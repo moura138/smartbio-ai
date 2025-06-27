@@ -1,0 +1,4 @@
+transformers
+gradio
+flask
+torch
